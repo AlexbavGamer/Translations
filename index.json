@@ -10,9 +10,9 @@
             "name": "Dutch (BE)",
             "file": "nl_BE.json"
         },
-		"pt_BR": {
-			"name": "Portuguese (Brazil)",
-			"file": "pt_BR.json",
-		}
+        "pt_BR": {
+		    "name": "Portuguese (Brazil)",
+            "file": "pt_BR.json",
+        }
     }
 }
